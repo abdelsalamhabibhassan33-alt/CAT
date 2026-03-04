@@ -1,5 +1,7 @@
+<?php
+
 //Mohammad Abdulmageed Mohammad Ahmad 
-//25/30052
+//25/30052 ?>
 <?php
 $host = "localhost";
 $user = "root";
